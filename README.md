@@ -5,4 +5,6 @@
 <div align="center">
 &nbsp;
   
-<sub>$\color{#2A50FF}{\textsf{“  Then believe in me. “}}$</sub>
+<sub>$\color{purple}{\textsf{“  How can i believe in something that doesn’t exist . “}}$</sub>
+  
+<sub>$\color{lightblue}{\textsf{“  Then believe in me. “}}$</sub>
