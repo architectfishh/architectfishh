@@ -24,6 +24,7 @@ $\color{#9B75B2}{\textsf{“&emsp; How can i believe in something that doesn’t
   
 <img width=“800” height="700" alt="image" src="https://github.com/user-attachments/assets/733eb205-8671-422f-86b1-0559d741e092" />
 
+<div align="right"> 
 
 
 WORK IN PROGRESS RN ! !
