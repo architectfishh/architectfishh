@@ -13,7 +13,6 @@ $\color{#9B75B2}{\textsf{“&emsp; How can i believe in something that doesn’t
 
 \$\color{#939FBF}{\textsf{“&emsp; Then believe in me.&emsp; “}}$
 
-&nbsp;
 
 <div align=“center”>
   
