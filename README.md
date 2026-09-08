@@ -3,11 +3,15 @@
 <img width="1199" height="384" alt="image" src="https://github.com/user-attachments/assets/a00cd072-19f7-40dd-8225-dd1dd6bfb49e" />
 
 <div align="center">
+  
+<sup>$\{\textsf{ credit : custardˍisyum on twitter ← (hiiii oomf) }}$</sup>
 &nbsp;
-  
-<sub>$\color{purple}{\textsf{“  How can i believe in something that doesn’t exist . “}}$</sub>
-  
-<sub>$\color{blue}{\textsf{“  Then believe in me. “}}$</sub>
+
+<div align="center">
+
+$\color{#9B75B2}{\textsf{“&emsp; How can i believe in something that doesn’t exist.&emsp; “}}$
+
+\$\color{#939FBF}{\textsf{“&emsp; Then believe in me.&emsp; “}}$
 
 &nbsp;
 
