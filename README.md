@@ -22,7 +22,7 @@ $\color{#9B75B2}{\textsf{“&emsp; How can i believe in something that doesn’t
 
 <div align="left">
   
-<img width=“600” height="498" alt="image" src="https://github.com/user-attachments/assets/733eb205-8671-422f-86b1-0559d741e092" />
+<img width=“700” height="800" alt="image" src="https://github.com/user-attachments/assets/733eb205-8671-422f-86b1-0559d741e092" />
 
 <div align="right"> 
 
