@@ -22,4 +22,4 @@ $\color{#9B75B2}{\textsf{“&emsp; How can i believe in something that doesn’t
 <div align=“center”>
   
 WORK IN PROGRESS RN ! !
-thank you my goat @deadbridewalking for helping be with the code
+thank you my goat @deadbridewalking for helping me with the code
