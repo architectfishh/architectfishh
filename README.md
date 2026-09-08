@@ -2,7 +2,7 @@
   
 <img width="1199" height="384" alt="image" src="https://github.com/user-attachments/assets/a00cd072-19f7-40dd-8225-dd1dd6bfb49e" />
 
-<div align="center">
+<div align="left">
   
 <sup>$\{\textsf{ credit : custardˍisyum on twitter ← (hiiii oomf) }}$</sup>
 &nbsp;
