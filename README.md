@@ -23,7 +23,7 @@ $\color{#9B75B2}{\textsf{“&emsp; How can i believe in something that doesn’t
   
 
 
-<img align="left" width="330" src="https://github.com/user-attachments/assets/b7d1a6bb-12b2-475f-823e-e60fc79c6531" />
+<img align="left" width="290" src="https://github.com/user-attachments/assets/b7d1a6bb-12b2-475f-823e-e60fc79c6531" />
 
 &nbsp;
 &nbsp;
@@ -41,7 +41,6 @@ $\color{#9B75B2}{\textsf{“&emsp; How can i believe in something that doesn’t
 &emsp;
 &emsp;
 &emsp;
-&emsp;
 
 &emsp;&emsp; $\color{lightblue}{\textsf{box}}$ &nbsp; $\color{lightblue}{\textsf{ / }}$  &nbsp; $\color{lightblue}{\textsf{architect}}$  &nbsp; $\color{lightblue}{\textsf{ / }}$  &nbsp; $\color{lightblue}{\textsf{fish}}$
 
@@ -53,10 +52,11 @@ $\color{#9B75B2}{\textsf{“&emsp; How can i believe in something that doesn’t
  $\color{#8E97AD}{\textsf{title : pt’s Hummer5718}}$ 
  
 &emsp; <sup>$\{\textsf{ credit art : custardˍisyum on twitter ← (go follow her !! ) }}$</sup>
-
+&emsp; <sup>$\{\textsf{ ty my goat @deadbridewalking for helping me with the code }}$</sup>
 
 <img align=“center” width="1000" height="170" alt="image" src="https://github.com/user-attachments/assets/4c205bf3-e06a-4ddd-9a26-21674e14449f" />
 
 
+
+
 WORK IN PROGRESS RN ! !
-thank you my goat @deadbridewalking for helping me with the code
