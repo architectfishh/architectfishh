@@ -55,8 +55,3 @@ $\color{#9B75B2}{\textsf{“&emsp; How can i believe in something that doesn’t
 &emsp; <sup>$\{\textsf{ ty my goat @deadbridewalking for helping me with the code }}$</sup>
 
 <img align=“center” width="1000" height="170" alt="image" src="https://github.com/user-attachments/assets/4c205bf3-e06a-4ddd-9a26-21674e14449f" />
-
-
-
-
-WORK IN PROGRESS RN ! !
