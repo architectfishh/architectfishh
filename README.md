@@ -23,7 +23,7 @@ $\color{#9B75B2}{\textsf{“&emsp; How can i believe in something that doesn’t
   
 
 
-<img align="left" width="290" src="https://github.com/user-attachments/assets/b7d1a6bb-12b2-475f-823e-e60fc79c6531" />
+<img align="left" width="330" src="https://github.com/user-attachments/assets/b7d1a6bb-12b2-475f-823e-e60fc79c6531" />
 
 &nbsp;
 &nbsp;
