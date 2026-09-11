@@ -44,6 +44,8 @@ $\color{#9B75B2}{\textsf{“&emsp; How can i believe in something that doesn’t
 
 &emsp;&emsp; $\color{lightblue}{\textsf{box}}$ &nbsp; $\color{lightblue}{\textsf{ / }}$  &nbsp; $\color{lightblue}{\textsf{architect}}$  &nbsp; $\color{lightblue}{\textsf{ / }}$  &nbsp; $\color{lightblue}{\textsf{fish}}$
 
+&emsp;&emsp; $\color{lightblue}{\textsf{ ( }}$ &nbsp; $\color{lightblue}{\textsf{ he }}$ &nbsp; $\color{lightblue}{\textsf{ / }}$ &nbsp; $\color{lightblue}{\textsf{ they }}$ &nbsp; $\color{lightblue}{\textsf{ ) }}$
+
 &emsp; $\color{lightblue}{\textsf{16}}$ &nbsp; $\color{lightblue}{\textsf{ , }}$&nbsp; $\color{lightblue}{\textsf{ INTP }}$&nbsp; $\color{lightblue}{\textsf{ 6w5 }}$  &nbsp; $\color{lightblue}{\textsf{ , }}$ &nbsp; $\color{lightblue}{\textsf{ TH/ENG }}$
 
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/5dadf135-faf8-4520-bc53-873d7f2f6784" /> &nbsp;[strawpage](https://fishiinbox.straw.page) &emsp; [prn.cc](https://pronouns.cc/@Architectfishh) &emsp; [atabook](https://architecturefish.atabook.org) 
