@@ -1,4 +1,6 @@
-<div align=“center”>
+&emsp; <sup>$\{\textsf{ best to view in dark mode }}$</sup>
+<div align="center">
+
   
 <img align=“center” width="1199" height="384" alt="image" src="https://github.com/user-attachments/assets/a00cd072-19f7-40dd-8225-dd1dd6bfb49e" />
 
