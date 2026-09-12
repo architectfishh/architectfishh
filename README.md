@@ -11,7 +11,7 @@
 
 <div align="center">
 
-$\color{#9B75B2}{\textsf{“&emsp; How can i believe in something that doesn’t exist.&emsp; “}}$
+$\color{#9B75B2}{\textsf{“&emsp; I don't know if I can believe in something that might not even exist.&emsp; “}}$
 
 \$\color{#939FBF}{\textsf{“&emsp; Then believe in me.&emsp; “}}$
 
